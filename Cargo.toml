@@ -8,6 +8,7 @@ edition = "2021"
 [dependencies]
 clap = "2.33"
 bio = "0.39"
+plotters = "0.3"
 
 # [profile.release]
 # debug = true
